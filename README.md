@@ -5,6 +5,7 @@ DATE :12-04-2023
 To write the python program for simulating ping command.
 
 # ALGORITHM :
+```
 1.start the program.
 2.Include necessary package in java.
 3.To create a process object p to implement the ping command.
@@ -16,6 +17,7 @@ To write the python program for simulating ping command.
 9.minimum, maximum and average times.
 10.print the results.
 11.Stop the program.
+```
 # PROGRAM :
 ## CLIENT :
 ```
